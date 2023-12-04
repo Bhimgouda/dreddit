@@ -8,7 +8,7 @@ import MnemonicModal from "./components/MnemonicModal";
 import { validateMnemonic } from "js-moi-sdk";
 
 // ------- Update with your Logic Id ------------------ //
-const logicId = "Paste the LogicId here";
+const logicId = "0x08000029fa14e591711367aaa2650101327f80828728160b9c15287ac06c4ff1eb3ad7";
 
 function App() {
   const [posts, setPosts] = useState([]);
